@@ -1,0 +1,14 @@
+ nDims = [   3 ];
+ dimList = [
+   360,    1,  360,
+   160,    1,  160,
+    23,    1,   23
+ ];
+ dataprec = [ 'float32' ];
+ nrecords = [     6 ];
+ timeStepNumber = [    6307200 ];
+ /* modelTime = [  1.135296000000E+11 ];*/
+ nFlds = [    6 ];
+ fldList = {
+ 'TRAC01  ' 'TRAC02  ' 'TRAC03  ' 'TRAC04  ' 'TRAC05  ' 'TRAC06  '
+ };
