@@ -9,6 +9,6 @@ Files include:
 6. Fe_ConstKL_run.mat, Fesinks_ConstKL_run.mat, and Fesources_ConstKL_run.mat are the model iron output from the ConstKL run
 7. Fe_LargeK_run.mat, Fesinks_LargeK_run.mat, and Fesources_LargeK_run.mat are the model iron output from the Large delta K run
 8. GA02.mat, GI04.mat,CoFeMUG.mat,GP02.mat, and GP13.mat, and GP16.mat are Fe data from GEOTRACES transects
-The observational and model data are then interpolated into the same grid point using the objective mapping method. 
-9. GA02_obs.mat, GI04_obs.mat,CoFeMUG_obs.mat,GP02_obs.mat, and GP13_obs.mat, and GP16_obs.mat are Fe data from GEOTRACES transects after interpolation
-10. A sample MATLAB script to plot the Fe transect figure in the paper: To be uploaded...
+9. The observational and model data are then interpolated into the same grid point using the objective mapping method. 
+10. GA02_obs.mat, GI04_obs.mat,CoFeMUG_obs.mat,GP02_obs.mat, and GP13_obs.mat, and GP16_obs.mat are Fe data from GEOTRACES transects after interpolation
+11. A sample MATLAB script to plot the Fe transect figure in the paper: To be uploaded...
