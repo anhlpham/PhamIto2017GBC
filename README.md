@@ -8,5 +8,5 @@ Files include:
 5. Fe_Weakhydro_run.mat; Fesinks_Weakhydro_run.mat, and Fesources_Weakhydro_run.mat are the model iron ouput from the Weak hydro run
 6. Fe_ConstKL_run.mat, Fesinks_ConstKL_run.mat, and Fesources_ConstKL_run.mat are the model iron output from the ConstKL run
 7. Fe_LargeK_run.mat, Fesinks_LargeK_run.mat, and Fesources_LargeK_run.mat are the model iron output from the Large delta K run
-8. GA02.mat, GI04.mat,CoFeMUG.mat,GP02.mat,GP13.mat, and GP16.mat are Fe data from GEOTRACES transects
+8. GA02_obs.mat, GI04_obs.mat,CoFeMUG_obs.mat,GP02_obs.mat, and GP13_obs.mat, and GP16.mat are Fe data from GEOTRACES transects
 9. A sample MATLAB script to plot the Fe transect figure in the paper: To be uploaded...
