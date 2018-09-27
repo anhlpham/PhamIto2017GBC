@@ -13,3 +13,4 @@ Files include:
 10. GA02_obs.mat, GI04_obs.mat,CoFeMUG_obs.mat,GP02_obs.mat, and GP13_obs.mat, and GP16_obs.mat are Fe data along GEOTRACES transects after interpolation
 11. GA02_model.mat, GI04_model.mat,CoFeMUG_model.mat,GP02_model.mat, and GP13_model.mat, and GP16_model.mat are Fe model results (Full run) along GEOTRACES transects after interpolation
 12. A sample MATLAB script to plot the Fe transect figure in the paper: Pham_Ito_GBC_2018.m
+13. A sample MATLAB code to objective map model and observed dFe data into the same grid point following the GA02 GEOTRACES cruise:Objective_mapping_GA02_data.m (Note that this script using m_map package for MATLAB to plot figures)
